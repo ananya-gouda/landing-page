@@ -1,0 +1,36 @@
+.navigation {
+    background-color: rgb(218, 129, 27);
+    color: white;
+    margin: 0;
+    padding: 0;
+    height: 4rem; 
+    
+}
+
+.navigation-item {
+    padding: 0 1.5rem;
+
+}
+
+.navigation-item :link{
+    padding: 0 1.5rem;
+    font-size: larger;
+}
+
+.navigation-link{
+    color: white;
+ 
+}
+
+.navigation-link:hover{
+    color: rgb(204, 204, 165);
+}
+
+.nav-image{
+    margin-left: 2rem;
+}
+
+.nav-image img {
+    height: 70px;
+    width: 70px;
+}

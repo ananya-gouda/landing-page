@@ -1,0 +1,52 @@
+.bodi {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-content {
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    flex-direction: column;
+    height: 90%;
+    width: 50%;
+    background-color: antiquewhite;
+    text-align: center;
+    
+}
+
+.contact {
+    margin: 2rem;
+    color: rgb(218, 129, 27);;
+}
+
+.comp-container{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.comp {
+    display: flex;
+    gap: 2rem
+}
+
+.comp input {
+    height: 3rem;
+    width: 30rem;
+}
+
+.comp textarea {
+    height: 10rem;
+    width: 30rem;
+}
+
+.icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 50px;
+}

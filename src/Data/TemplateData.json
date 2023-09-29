@@ -1,0 +1,160 @@
+[
+    {
+       "id":1,
+       "image":"https://cdn.dotpe.in/catalog/item/images/3054285/1/chuub4l1lcsgs1diag60",
+       "title":"Veggie Lover Pizza",
+       "type":"Pizza",
+       "price":189
+    }, 
+
+    {
+        "id":2,
+        "image":"https://cdn.dotpe.in/catalog/item/images/3054286/1/chuub4l1lcsgs1diag60",
+        "title":"Onion and Green chilly Pizza",
+        "type":"Pizza",
+        "price": 129
+     }, 
+
+     {
+        "id":3,
+        "image":"https://cdn.dotpe.in/catalog/item/images/3054287/1/chuub4l1lcsgs1diag60",
+        "title":"Crunchy Onion Pizza",
+        "type":"Pizza",
+        "price": 129
+     }, 
+
+     {
+        "id":4,
+        "image":"https://cdn.dotpe.in/catalog/item/images/3054288/1/chuub4l1lcsgs1diag60",
+        "title":"Classic Margherita Pizza",
+        "type":"Pizza",
+        "price": 149
+     }, 
+
+     {
+        "id":5,
+        "image":"https://cdn.dotpe.in/catalog/item/images/3054289/1/chuub4l1lcsgs1diag60",
+        "title":"Cheese & Mushroom Pizza",
+        "type":"Pizza",
+        "price": 219
+     }, 
+
+     {
+        "id":6,
+        "image":"https://cdn.dotpe.in/catalog/item/images/3054290/1/chuub4l1lcsgs1diag60",
+        "title":"Farmhouse Pizza",
+        "type":"Pizza",
+        "price": 219
+     },
+
+     {
+        "id":7,
+        "image":"https://cdn.dotpe.in/catalog/item/images/3054360/1/chuub4l1lcsgs1diag60",
+        "title":"Tandoori Veggie Burger",
+        "type":"Burger",
+        "price": 129
+     },
+
+     {
+        "id":8,
+        "image":"https://cdn.dotpe.in/catalog/item/images/3054361/1/chuub4l1lcsgs1diag60",
+        "title":"Grilled Chicken Burger",
+        "type":"Burger",
+        "price": 219
+     },
+
+     {
+        "id":9,
+        "image":"https://cdn.dotpe.in/catalog/item/images/4189631/1/chuub4l1lcsgs1diag60",
+        "title":"Paneer Tikka Burger",
+        "type":"Burger",
+        "price": 150
+     },
+
+     {
+        "id":10,
+        "image":"https://cdn.dotpe.in/catalog/item/images/3054353/1/chuub4l1lcsgs1diag60",
+        "title":"Chicken Burger",
+        "type":"Burger",
+        "price": 319
+     },
+
+     {
+        "id":11,
+        "image":"https://www.dominos.co.in/files/items/MoroccanPastaVeg_N_(1).jpg",
+        "title":"Moroccan Spice Pasta Veg",
+        "type":"Pasta",
+        "price": 220
+     },
+
+     {
+        "id":12,
+        "image":"https://www.dominos.co.in/files/items/PaneerTikkaMasala_N.jpg",
+        "title":"Paneer Tikka Masala Pasta",
+        "type":"Pasta",
+        "price": 220
+     },
+
+     {
+        "id":13,
+        "image":"https://www.dominos.co.in/files/items/CreamyTomatoVeg_N_(3).jpg",
+        "title":"Creamy Tomato Pasta",
+        "type":"Pasta",
+        "price": 220
+     },
+
+     {
+        "id":14,
+        "image":"https://cdn.dotpe.in/catalog/item/images/3054276/1/chuub4l1lcsgs1diag60",
+        "title":"Nutella Chocolate Mousse",
+        "type":"Desert",
+        "price": 129
+     },
+     {
+        "id":15,
+        "image":"https://cdn.dotpe.in/catalog/item/images/3054277/1/chuub4l1lcsgs1diag60",
+        "title":"Tiramisu Jar",
+        "type":"Desert",
+        "price": 129
+     },
+
+     {
+        "id":16,
+        "image":"https://cdn.dotpe.in/catalog/item/images/3054278/1/chuub4l1lcsgs1diag60",
+        "title":"Kitkat mousse jar",
+        "type":"Desert",
+        "price": 129
+     },
+
+     {
+        "id":17,
+        "image":"https://cdn.dotpe.in/catalog/item/images/3054281/1/chuub4l1lcsgs1diag60",
+        "title":"Brownie with hot chocolate",
+        "type":"Desert",
+        "price": 129
+     },
+
+     {
+        "id":18,
+        "image":"https://cdn.dotpe.in/catalog/item/images/3054377/1/chuub4l1lcsgs1diag60",
+        "title":"Death by chocolate cake",
+        "type":"Desert",
+        "price": 129
+     },
+    
+     {
+        "id":19,
+        "image":"https://cdn.dotpe.in/catalog/item/images/3054333/1/chuub4l1lcsgs1diag60",
+        "title":"Pepsi (475ml)",
+        "type":"Beverages",
+        "price": 57
+     },
+     {
+        "id":20,
+        "image":"https://cdn.dotpe.in/catalog/item/images/3054334/1/chuub4l1lcsgs1diag60",
+        "title":"7Up (475ml)",
+        "type":"Beverages",
+        "price": 57
+     }
+    
+]

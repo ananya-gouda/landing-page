@@ -1,0 +1,37 @@
+.container-footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 8rem;
+    background-color: rgb(251, 204, 142);
+}
+
+.icons {
+    display: flex;
+    flex-direction: row;
+    margin-top: 2rem;
+}
+
+.icon {
+    margin: 1rem;
+}
+
+.icon:hover{
+    cursor: pointer;
+}
+
+.content-footer {
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 2rem;
+    background-color: rgb(251, 204, 142);
+   
+}
+
+.content-footer h2 {
+    font-size: large;
+    color: rgb(218, 129, 27);
+}

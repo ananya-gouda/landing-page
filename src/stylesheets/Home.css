@@ -1,0 +1,33 @@
+.body {
+    height: 95vh;
+    display: flex;
+    flex-direction: row;
+    background-color: antiquewhite;
+    gap: 4rem;
+}
+
+.image-home{
+    height: 95vh;
+    margin-right: 0;
+    margin-left: 0;
+    
+}
+
+.image-home img{
+    height: 95vh;
+    width: 800px;
+    border-radius: 0 45% 45% 0;
+    opacity: 0.6;
+}
+
+.content-home {
+    position: relative;
+    /* right: 1.3rem; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    /* gap: 2rem; */
+    color: rgb(218, 129, 27);
+}
+

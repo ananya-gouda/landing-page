@@ -1,0 +1,43 @@
+.posts-about {
+  gap: 2rem;
+}
+
+.post-about {
+  display: flex;
+  flex-direction: column;
+  color: rgb(218, 129, 27);
+  justify-content: space-around;
+  align-items: center;
+  gap: 3rem;
+  margin: 2rem 0;
+}
+
+.post-about:nth-child(2n+1){
+  flex-direction: row-reverse;
+}
+
+.post-about:nth-child(2n){
+  flex-direction: row;
+}
+
+.content-about {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+  width: 400px;
+}
+
+.content-about h1 {
+  font-size: 40px;
+}
+
+.content-about p {
+  font-size: 20px;
+}
+
+.img img {
+  height: 400px;
+  width: 400px;
+}
